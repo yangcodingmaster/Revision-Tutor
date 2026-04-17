@@ -10,14 +10,14 @@
 
 ## What is this? · 这是什么？
 
-**English:** Revision Tutor is a Claude skill that acts as both a **patient explainer** during study and a **strict examiner** when you're ready to be tested. It's built around a specific learning loop:
+ Revision Tutor is a Claude skill that acts as both a **patient explainer** during study and a **strict examiner** when you're ready to be tested. It's built around a specific learning loop:
 
 1. Read your lecture notes / slides
 2. Ask Claude to explain confusing concepts → understand deeply
 3. Write it in your own words
 4. Get quizzed → find your real blind spots
 
-**中文：** 复习导师是一个 Claude skill，在学习时充当**耐心的解释器**，在你准备好接受检验时切换为**严格的考官**。围绕一个具体的学习闭环设计：
+复习导师是一个 Claude skill，在学习时充当**耐心的解释器**，在你准备好接受检验时切换为**严格的考官**。围绕一个具体的学习闭环设计：
 
 1. 阅读讲义/课件
 2. 请 Claude 解释不懂的概念 → 深度理解
